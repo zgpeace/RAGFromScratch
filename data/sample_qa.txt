@@ -1,0 +1,29 @@
+Q: What is RAG?
+A: RAG stands for Retrieval-Augmented Generation, a technique that combines retrieval of relevant documents with language model generation.
+
+Q: What are the benefits of RAG?
+A: RAG improves accuracy by grounding responses in retrieved documents, reducing hallucinations and improving factual correctness.
+
+Q: What is LangChain?
+A: LangChain is an open-source framework for building applications powered by large language models.
+
+Q: What is FAISS?
+A: FAISS is a library developed by Facebook AI Research for efficient similarity search and clustering of dense vectors.
+
+Q: What is an embedding?
+A: An embedding is a numerical vector representation of text that captures semantic meaning, allowing similar texts to be close together in vector space.
+
+Q: What is a vector database?
+A: A vector database stores and indexes high-dimensional vectors (embeddings) and enables fast similarity search over them.
+
+Q: What is GPT-4o-mini?
+A: GPT-4o-mini is a lightweight and cost-efficient version of OpenAI's GPT-4o model, designed for tasks requiring fast and affordable text generation.
+
+Q: How does RAG reduce hallucinations?
+A: RAG reduces hallucinations by retrieving factual documents and providing them as context to the language model, grounding its responses in real information.
+
+Q: What is the role of a retriever in RAG?
+A: The retriever in RAG is responsible for finding the most relevant documents from a knowledge base given a user query, typically using vector similarity search.
+
+Q: What is the role of a generator in RAG?
+A: The generator in RAG is the language model that takes the retrieved documents as context and generates a coherent, informative answer to the user's question.
