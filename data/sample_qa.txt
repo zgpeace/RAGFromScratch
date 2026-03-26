@@ -1,0 +1,44 @@
+Q: What is RAG?
+A: RAG stands for Retrieval-Augmented Generation, a technique that combines retrieval of relevant documents with language model generation.
+
+Q: What are the benefits of RAG?
+A: RAG improves accuracy by grounding responses in retrieved documents, reducing hallucinations and improving factual correctness.
+
+Q: What is LangChain?
+A: LangChain is an open-source framework for building applications powered by large language models.
+
+Q: What is FAISS?
+A: FAISS is a library developed by Facebook AI Research for efficient similarity search and clustering of dense vectors.
+
+Q: What is an embedding?
+A: An embedding is a numerical representation of text in a high-dimensional vector space, capturing semantic meaning so that similar texts have similar vectors.
+
+Q: What is a vector database?
+A: A vector database is a specialized database optimized for storing and querying high-dimensional vectors, enabling fast similarity search across large datasets.
+
+Q: What is OpenAI?
+A: OpenAI is an AI research and deployment company known for developing models like GPT-4 and providing APIs for natural language processing tasks.
+
+Q: What is text-embedding-ada-002?
+A: text-embedding-ada-002 is OpenAI's embedding model that converts text into 1536-dimensional vectors for semantic search and similarity tasks.
+
+Q: What is gpt-4o-mini?
+A: gpt-4o-mini is a lightweight, cost-efficient version of OpenAI's GPT-4o model, suitable for tasks requiring fast and affordable language generation.
+
+Q: What is FastAPI?
+A: FastAPI is a modern, fast web framework for building APIs with Python, based on standard Python type hints and supporting async operations.
+
+Q: What is Streamlit?
+A: Streamlit is an open-source Python library for creating interactive web applications for machine learning and data science projects with minimal code.
+
+Q: What is SQLite?
+A: SQLite is a lightweight, serverless, self-contained relational database engine that stores data in a single file, widely used for local storage.
+
+Q: What is chunking in RAG?
+A: Chunking is the process of splitting large documents into smaller segments so that each chunk can be independently embedded and retrieved based on relevance.
+
+Q: What is a retriever in RAG?
+A: A retriever is a component that searches a vector store for documents most similar to a given query, returning the top-k relevant chunks as context.
+
+Q: What is hallucination in LLMs?
+A: Hallucination refers to when a language model generates information that sounds plausible but is factually incorrect or unsupported by its context.
